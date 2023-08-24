@@ -6,8 +6,8 @@
 - ⚡ Fun fact: I'm usually quite lazy but i don't get scared about big projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iu2frl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iu2frl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=asemlucben&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asemlucben&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -184,7 +184,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/iu2frl/iu2frl/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/asemlucben/asemlucben/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -193,7 +193,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/iu2frl/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/asemlucben/count.svg?"  />
 </div>
 
 ###
@@ -206,16 +206,16 @@
   <a href="https://www.linkedin.com/in/luca-bennati-156ba9194/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/iu2frl" target="_blank">
+  <a href="https://twitter.com/asemlucben" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
   <a href="https://discordapp.com/users/688778561309638835" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="https://www.paypal.com/paypalme/iu2frl" target="_blank">
+  <a href="https://www.paypal.com/paypalme/asemlucben" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
   </a>
-  <a href="https://www.iu2frl.it/" target="_blank">
+  <a href="https://www.asemlucben.it/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
   </a>
   <a href="mailto:l.bennati@asem.it" target="_blank">

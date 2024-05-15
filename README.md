@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working as Application Support Engineer in [ASEM](https://www.asem.it/it/), a [Rockwell Automation](https://www.rockwellautomation.com/en-us.html) company, I'm specialized in [FactoryTalk® Optix™](https://www.rockwellautomation.com/en-us/products/software/factorytalk/designhub/optix.html)
 - 🌱 I’m currently learning advanced C# programming and Python
-- 💬 Ask me about how to build cool projects with [FactoryTalk® Optix™](https://www.rockwellautomation.com/en-us/products/software/factorytalk/designhub/optix.html)
-- ⚡ Fun fact: I'm usually quite lazy but i don't get scared about big projects
+- 💬 Are you interested in [FactoryTalk® Optix™](https://www.rockwellautomation.com/en-us/products/software/factorytalk/designhub/optix.html)? You should definitely have a look at the official [FactoryTalk® Optix™ organization](https://github.com/FactoryTalk-Optix/)
+- ⚡ Fun fact: I'm usually quite lazy but I don't get scared about big projects
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asemlucben&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -192,21 +192,6 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/asemlucben/count.svg?"  />
-</div>
-
-###
-
-<p align="left">Contact me</p>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/luca-bennati-156ba9194/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:l.bennati@asem.it" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
 </div>
 
 ###

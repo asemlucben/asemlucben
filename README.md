@@ -5,10 +5,6 @@
 - 💬 Are you interested in [FactoryTalk® Optix™](https://www.rockwellautomation.com/en-us/products/software/factorytalk/designhub/optix.html)? You should definitely have a look at the official [FactoryTalk® Optix™ organization](https://github.com/FactoryTalk-Optix/)
 - ⚡ Fun fact: I'm usually quite lazy but I don't get scared about big projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asemlucben&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <p align="left">Technologies and languages</p>

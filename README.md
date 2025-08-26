@@ -180,13 +180,3 @@
 <img src="https://raw.githubusercontent.com/asemlucben/asemlucben/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<p align="left">Profile views</p>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/asemlucben/count.svg?"  />
-</div>
-
-###

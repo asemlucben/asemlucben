@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as Application Support Engineer in [ASEM](https://www.asem.it/it/), a [Rockwell Automation](https://www.rockwellautomation.com/en-us.html) company, I'm specialized in [FactoryTalk® Optix™](https://www.rockwellautomation.com/en-us/products/software/factorytalk/designhub/optix.html)
+- 🔭 I’m currently working as Application Software Engineer in [ASEM](https://www.asem.it/it/), a [Rockwell Automation](https://www.rockwellautomation.com/en-us.html) company, I'm specialized in [FactoryTalk® Optix™](https://www.rockwellautomation.com/en-us/products/software/factorytalk/designhub/optix.html)
 - 🌱 I’m currently learning advanced C# programming and Python
 - 💬 Are you interested in [FactoryTalk® Optix™](https://www.rockwellautomation.com/en-us/products/software/factorytalk/designhub/optix.html)? You should definitely have a look at the official [FactoryTalk® Optix™ organization](https://github.com/FactoryTalk-Optix/)
 - ⚡ Fun fact: I'm usually quite lazy but I don't get scared about big projects
+- 💀 Make sure to checkout [my gists](https://gist.github.com/asemlucben)
 
 ###
 
